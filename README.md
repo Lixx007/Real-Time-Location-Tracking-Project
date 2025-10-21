@@ -1,4 +1,4 @@
-📍 Real-Time Multi-User Location Tracker
+Real-Time Multi-User Location Tracker
 
 Tech Stack: Node.js · Express.js · Socket.IO · Leaflet.js · HTML · CSS · JavaScript
 
